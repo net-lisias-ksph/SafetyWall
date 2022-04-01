@@ -21,10 +21,10 @@ updated: 30 Mar 2022
 [Home](/index.md)
 
 * License
-  * ![License](./LegalMumboJumbo/License.md)
+  * ![License](/LegalMumboJumbo/License.md)
 * Forums
-  * ![Forum](./LegalMumboJumbo/FORUM-01.png)
-  * ![Forum](./LegalMumboJumbo/FORUM-02.png)
-  * ![Forum](./LegalMumboJumbo/FORUM-03.png)
+  * ![Forum](/LegalMumboJumbo/FORUM-01.png)
+  * ![Forum](/LegalMumboJumbo/FORUM-02.png)
+  * ![Forum](/LegalMumboJumbo/FORUM-03.png)
 
 <!-- this file CC BY-ND 3.0 Unported by zer0Kerbal -->
